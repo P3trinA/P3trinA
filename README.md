@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @P3trinA
+- 👀 I’m hiring for some amazing devs, If you work with React, Node, Typescript. DM me:)
